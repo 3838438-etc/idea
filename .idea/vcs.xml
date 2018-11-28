@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/database/xodus" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/doc/idea-tutorial" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/plugin-dev/gradle-idea-set" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/plugin-dev/gradle-intellij-plugin" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/plugin-dev/gradle-node-envs" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/plugin-dev/gradle-python-envs" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/plugin-dev/idea-android" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/plugin-dev/idea-scala" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/plugin-dev/kotlin-dsl" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/sources/robovm-studio" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/tools/idea-annotations" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/tools/plugin-rest命令行管理" vcs="Git" />
+  </component>
+</project>

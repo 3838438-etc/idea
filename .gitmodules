@@ -1,0 +1,36 @@
+[submodule "plugin-dev/kotlin-dsl"]
+	path = plugin-dev/kotlin-dsl
+	url = https://github.com/boob-sbcm/kotlin-dsl.git
+[submodule "doc/idea-tutorial"]
+	path = doc/idea-tutorial
+	url = https://github.com/boob-sbcm/IntelliJ-IDEA-Tutorial.git
+[submodule "sources/robovm-studio"]
+	path = sources/robovm-studio
+	url = https://github.com/boob-sbcm/robovm-studio.git
+[submodule "database/xodus"]
+	path = database/xodus
+	url = https://github.com/boob-sbcm/xodus.git
+[submodule "plugin-dev/gradle-intellij-plugin"]
+	path = plugin-dev/gradle-intellij-plugin
+	url = https://github.com/boob-sbcm/gradle-intellij-plugin.git
+[submodule "plugin-dev/gradle-idea-set"]
+	path = plugin-dev/gradle-idea-set
+	url = https://github.com/boob-sbcm/gradle-idea-ext-plugin.git
+[submodule "plugin-dev/gradle-python-envs"]
+	path = plugin-dev/gradle-python-envs
+	url = https://github.com/boob-sbcm/gradle-python-envs.git
+[submodule "plugin-dev/idea-scala"]
+	path = plugin-dev/idea-scala
+	url = https://github.com/boob-sbcm/intellij-scala.git
+[submodule "plugin-dev/idea-android"]
+	path = plugin-dev/idea-android
+	url = https://github.com/boob-sbcm/android.git
+[submodule "tools/idea-annotations"]
+	path = tools/idea-annotations
+	url = https://github.com/boob-sbcm/ExternalAnnotations.git
+[submodule "plugin-dev/gradle-node-envs"]
+	path = plugin-dev/gradle-node-envs
+	url = https://github.com/boob-sbcm/gradle-node-envs.git
+[submodule "tools/plugin-rest命令行管理"]
+	path = tools/plugin-rest命令行管理
+	url = https://github.com/boob-sbcm/plugin-repository-rest-client.git
