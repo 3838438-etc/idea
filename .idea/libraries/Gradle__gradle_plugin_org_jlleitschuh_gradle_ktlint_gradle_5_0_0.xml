@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: gradle.plugin.org.jlleitschuh.gradle:ktlint-gradle:5.0.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/gradle.plugin.org.jlleitschuh.gradle/ktlint-gradle/5.0.0/3ec4d839d4cdb295a5dd1c83ab6c9a53fcf8d738/ktlint-gradle-5.0.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/gradle.plugin.org.jlleitschuh.gradle/ktlint-gradle/5.0.0/9b0d54716d7329c5dd89693551ae9214bdd0eedb/ktlint-gradle-5.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

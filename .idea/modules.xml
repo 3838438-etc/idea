@@ -3,6 +3,39 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/idea.iml" filepath="$PROJECT_DIR$/idea.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/org.gradle.buildSrc.iml" filepath="$PROJECT_DIR$/.idea/modules/org.gradle.buildSrc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/org.gradle.buildSrc.main.iml" filepath="$PROJECT_DIR$/.idea/modules/org.gradle.buildSrc.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/org.gradle.buildSrc.test.iml" filepath="$PROJECT_DIR$/.idea/modules/org.gradle.buildSrc.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/org.gradle.gradle-kotlin-dsl.iml" filepath="$PROJECT_DIR$/.idea/modules/org.gradle.gradle-kotlin-dsl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/subprojects/integ-tests/org.gradle.integ-tests.iml" filepath="$PROJECT_DIR$/.idea/modules/subprojects/integ-tests/org.gradle.integ-tests.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/subprojects/integ-tests/org.gradle.integ-tests.main.iml" filepath="$PROJECT_DIR$/.idea/modules/subprojects/integ-tests/org.gradle.integ-tests.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/subprojects/integ-tests/org.gradle.integ-tests.test.iml" filepath="$PROJECT_DIR$/.idea/modules/subprojects/integ-tests/org.gradle.integ-tests.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/subprojects/plugins/org.gradle.kotlin.plugins.iml" filepath="$PROJECT_DIR$/.idea/modules/subprojects/plugins/org.gradle.kotlin.plugins.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/subprojects/plugins-experiments/org.gradle.kotlin.plugins-experiments.iml" filepath="$PROJECT_DIR$/.idea/modules/subprojects/plugins-experiments/org.gradle.kotlin.plugins-experiments.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/subprojects/plugins-experiments/org.gradle.kotlin.plugins-experiments.main.iml" filepath="$PROJECT_DIR$/.idea/modules/subprojects/plugins-experiments/org.gradle.kotlin.plugins-experiments.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/subprojects/plugins-experiments/org.gradle.kotlin.plugins-experiments.ruleset.iml" filepath="$PROJECT_DIR$/.idea/modules/subprojects/plugins-experiments/org.gradle.kotlin.plugins-experiments.ruleset.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/subprojects/plugins-experiments/org.gradle.kotlin.plugins-experiments.test.iml" filepath="$PROJECT_DIR$/.idea/modules/subprojects/plugins-experiments/org.gradle.kotlin.plugins-experiments.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/subprojects/plugins/org.gradle.kotlin.plugins.main.iml" filepath="$PROJECT_DIR$/.idea/modules/subprojects/plugins/org.gradle.kotlin.plugins.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/subprojects/plugins/org.gradle.kotlin.plugins.test.iml" filepath="$PROJECT_DIR$/.idea/modules/subprojects/plugins/org.gradle.kotlin.plugins.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/subprojects/provider/org.gradle.provider.iml" filepath="$PROJECT_DIR$/.idea/modules/subprojects/provider/org.gradle.provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/subprojects/provider-plugins/org.gradle.provider-plugins.iml" filepath="$PROJECT_DIR$/.idea/modules/subprojects/provider-plugins/org.gradle.provider-plugins.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/subprojects/provider-plugins/org.gradle.provider-plugins.main.iml" filepath="$PROJECT_DIR$/.idea/modules/subprojects/provider-plugins/org.gradle.provider-plugins.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/subprojects/provider-plugins/org.gradle.provider-plugins.test.iml" filepath="$PROJECT_DIR$/.idea/modules/subprojects/provider-plugins/org.gradle.provider-plugins.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/subprojects/provider/org.gradle.provider.main.iml" filepath="$PROJECT_DIR$/.idea/modules/subprojects/provider/org.gradle.provider.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/subprojects/provider/org.gradle.provider.test.iml" filepath="$PROJECT_DIR$/.idea/modules/subprojects/provider/org.gradle.provider.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/subprojects/samples-tests/org.gradle.samples-tests.iml" filepath="$PROJECT_DIR$/.idea/modules/subprojects/samples-tests/org.gradle.samples-tests.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/subprojects/samples-tests/org.gradle.samples-tests.main.iml" filepath="$PROJECT_DIR$/.idea/modules/subprojects/samples-tests/org.gradle.samples-tests.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/subprojects/samples-tests/org.gradle.samples-tests.test.iml" filepath="$PROJECT_DIR$/.idea/modules/subprojects/samples-tests/org.gradle.samples-tests.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/subprojects/test-fixtures/org.gradle.test-fixtures.iml" filepath="$PROJECT_DIR$/.idea/modules/subprojects/test-fixtures/org.gradle.test-fixtures.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/subprojects/test-fixtures/org.gradle.test-fixtures.main.iml" filepath="$PROJECT_DIR$/.idea/modules/subprojects/test-fixtures/org.gradle.test-fixtures.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/subprojects/test-fixtures/org.gradle.test-fixtures.test.iml" filepath="$PROJECT_DIR$/.idea/modules/subprojects/test-fixtures/org.gradle.test-fixtures.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/subprojects/tooling-builders/org.gradle.tooling-builders.iml" filepath="$PROJECT_DIR$/.idea/modules/subprojects/tooling-builders/org.gradle.tooling-builders.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/subprojects/tooling-builders/org.gradle.tooling-builders.main.iml" filepath="$PROJECT_DIR$/.idea/modules/subprojects/tooling-builders/org.gradle.tooling-builders.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/subprojects/tooling-builders/org.gradle.tooling-builders.test.iml" filepath="$PROJECT_DIR$/.idea/modules/subprojects/tooling-builders/org.gradle.tooling-builders.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/subprojects/tooling-models/org.gradle.tooling-models.iml" filepath="$PROJECT_DIR$/.idea/modules/subprojects/tooling-models/org.gradle.tooling-models.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/subprojects/tooling-models/org.gradle.tooling-models.main.iml" filepath="$PROJECT_DIR$/.idea/modules/subprojects/tooling-models/org.gradle.tooling-models.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/subprojects/tooling-models/org.gradle.tooling-models.test.iml" filepath="$PROJECT_DIR$/.idea/modules/subprojects/tooling-models/org.gradle.tooling-models.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/plugin-rest命令行管理.iml" filepath="$PROJECT_DIR$/.idea/modules/plugin-rest命令行管理.iml" />
       <module fileurl="file://$PROJECT_DIR$/text/text.iml" filepath="$PROJECT_DIR$/text/text.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/text_ast.iml" filepath="$PROJECT_DIR$/.idea/modules/text_ast.iml" group="text" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/text_integrationTest.iml" filepath="$PROJECT_DIR$/.idea/modules/text_integrationTest.iml" group="text" />

@@ -3,6 +3,27 @@
   <component name="GradleSettings">
     <option name="linkedExternalProjectsSettings">
       <GradleProjectSettings>
+        <option name="createEmptyContentRootDirectories" value="true" />
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/plugin-dev/kotlin-dsl" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/plugin-dev/kotlin-dsl" />
+            <option value="$PROJECT_DIR$/plugin-dev/kotlin-dsl/buildSrc" />
+            <option value="$PROJECT_DIR$/plugin-dev/kotlin-dsl/subprojects/integ-tests" />
+            <option value="$PROJECT_DIR$/plugin-dev/kotlin-dsl/subprojects/plugins" />
+            <option value="$PROJECT_DIR$/plugin-dev/kotlin-dsl/subprojects/plugins-experiments" />
+            <option value="$PROJECT_DIR$/plugin-dev/kotlin-dsl/subprojects/provider" />
+            <option value="$PROJECT_DIR$/plugin-dev/kotlin-dsl/subprojects/provider-plugins" />
+            <option value="$PROJECT_DIR$/plugin-dev/kotlin-dsl/subprojects/samples-tests" />
+            <option value="$PROJECT_DIR$/plugin-dev/kotlin-dsl/subprojects/test-fixtures" />
+            <option value="$PROJECT_DIR$/plugin-dev/kotlin-dsl/subprojects/tooling-builders" />
+            <option value="$PROJECT_DIR$/plugin-dev/kotlin-dsl/subprojects/tooling-models" />
+          </set>
+        </option>
+        <option name="useQualifiedModuleNames" value="true" />
+      </GradleProjectSettings>
+      <GradleProjectSettings>
         <option name="distributionType" value="DEFAULT_WRAPPED" />
         <option name="externalProjectPath" value="$PROJECT_DIR$/text" />
         <option name="modules">
@@ -10,6 +31,12 @@
             <option value="$PROJECT_DIR$/text" />
           </set>
         </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="createEmptyContentRootDirectories" value="true" />
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/tools/plugin-rest命令行管理" />
+        <option name="useQualifiedModuleNames" value="true" />
       </GradleProjectSettings>
     </option>
   </component>

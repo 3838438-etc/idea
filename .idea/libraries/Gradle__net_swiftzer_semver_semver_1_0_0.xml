@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: net.swiftzer.semver:semver:1.0.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.swiftzer.semver/semver/1.0.0/6c252202f6c880ca9bccfe070ed23b0b25e215ae/semver-1.0.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.swiftzer.semver/semver/1.0.0/f6c293ca3dbe9bfe5d3fa47334c554d73965057a/semver-1.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

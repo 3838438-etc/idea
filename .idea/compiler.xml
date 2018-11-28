@@ -5,6 +5,27 @@
       <profile default="true" name="Default" enabled="true" />
     </annotationProcessing>
     <bytecodeTargetLevel target="8">
+      <module name="org.gradle.buildSrc.main" target="1.8" />
+      <module name="org.gradle.buildSrc.test" target="1.8" />
+      <module name="org.gradle.integ-tests.main" target="1.8" />
+      <module name="org.gradle.integ-tests.test" target="1.8" />
+      <module name="org.gradle.kotlin.plugins-experiments.main" target="1.8" />
+      <module name="org.gradle.kotlin.plugins-experiments.ruleset" target="1.8" />
+      <module name="org.gradle.kotlin.plugins-experiments.test" target="1.8" />
+      <module name="org.gradle.kotlin.plugins.main" target="1.8" />
+      <module name="org.gradle.kotlin.plugins.test" target="1.8" />
+      <module name="org.gradle.provider-plugins.main" target="1.8" />
+      <module name="org.gradle.provider-plugins.test" target="1.8" />
+      <module name="org.gradle.provider.main" target="1.8" />
+      <module name="org.gradle.provider.test" target="1.8" />
+      <module name="org.gradle.samples-tests.main" target="1.8" />
+      <module name="org.gradle.samples-tests.test" target="1.8" />
+      <module name="org.gradle.test-fixtures.main" target="1.8" />
+      <module name="org.gradle.test-fixtures.test" target="1.8" />
+      <module name="org.gradle.tooling-builders.main" target="1.8" />
+      <module name="org.gradle.tooling-builders.test" target="1.8" />
+      <module name="org.gradle.tooling-models.main" target="1.8" />
+      <module name="org.gradle.tooling-models.test" target="1.8" />
       <module name="text_ast" target="1.8" />
       <module name="text_integrationTest" target="1.8" />
       <module name="text_main" target="1.8" />
