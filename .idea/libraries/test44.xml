@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="test44">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/sources/robovm-studio/plugins/eclipse/testData/round/httpJavadoc/test/test.jar!/" />
+      <root url="jar://$PROJECT_DIR$/sources/robovm-studio/plugins/eclipse/testData/round/httpJavadoc/test/testJavadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/sources/robovm-studio/plugins/eclipse/testData/round/httpJavadoc/test/testSrc.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

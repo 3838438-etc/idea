@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="libs">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/sources/robovm-studio/java/java-tests/testData/codeInsight/clsHighlighting/libs/IDEA97887.jar!/" />
+      <root url="jar://$PROJECT_DIR$/sources/robovm-studio/java/java-tests/testData/codeInsight/clsHighlighting/libs/IDEA121866.jar!/" />
+      <root url="jar://$PROJECT_DIR$/sources/robovm-studio/java/java-tests/testData/codeInsight/clsHighlighting/libs/IDEA118733.jar!/" />
+      <root url="jar://$PROJECT_DIR$/sources/robovm-studio/java/java-tests/testData/codeInsight/clsHighlighting/libs/IDEA127714.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

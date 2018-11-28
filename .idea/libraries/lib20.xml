@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="lib20">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/sources/robovm-studio/java/java-tests/testData/codeInsight/daemonCodeAnalyzer/quickFix/orderEntry/lib/mockjunit.jar!/" />
+      <root url="jar://$PROJECT_DIR$/sources/robovm-studio/java/java-tests/testData/codeInsight/daemonCodeAnalyzer/quickFix/orderEntry/lib/lib.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

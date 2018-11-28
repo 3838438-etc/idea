@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="github">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/sources/robovm-studio/platform/lang-impl/testData/platform/templates/github/simple.zip!/" />
+      <root url="jar://$PROJECT_DIR$/sources/robovm-studio/platform/lang-impl/testData/platform/templates/github/single-root-dir-archive.zip!/" />
+      <root url="jar://$PROJECT_DIR$/sources/robovm-studio/platform/lang-impl/testData/platform/templates/github/invalid-archive.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

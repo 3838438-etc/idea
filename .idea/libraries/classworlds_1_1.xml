@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="classworlds-1.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/sources/robovm-studio/plugins/maven/maven2-server-impl/lib/maven2/boot/classworlds-1.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

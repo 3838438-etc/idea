@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="scnd">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/sources/robovm-studio/plugins/eclipse/testData/round/relativePaths/relPaths/scnd/jar-all-4-src.zip!/" />
+      <root url="jar://$PROJECT_DIR$/sources/robovm-studio/plugins/eclipse/testData/round/relativePaths/relPaths/scnd/jar-all-4.zip!/" />
+      <root url="jar://$PROJECT_DIR$/sources/robovm-studio/plugins/eclipse/testData/round/relativePaths/relPaths/scnd/jar-all-4-javadoc.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

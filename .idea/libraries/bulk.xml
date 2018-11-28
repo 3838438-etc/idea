@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="bulk">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/sources/robovm-studio/plugins/java-decompiler/engine/testData/bulk.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

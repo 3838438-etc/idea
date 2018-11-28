@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="JavaFX Application">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/sources/robovm-studio/plugins/javaFX/src/resources/projectTemplates/Java/JavaFX Application.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

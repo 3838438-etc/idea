@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="1.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/sources/robovm-studio/plugins/maven/src/test/data/plugins/intellij/test/maven-extension/1.0/maven-extension-1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/sources/robovm-studio/plugins/maven/src/test/data/plugins/intellij/test/maven-extension/1.0/maven-extension-1.0-sources.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

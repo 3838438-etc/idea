@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="lib24">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/sources/robovm-studio/updater/testData/lib/annotations_changed.jar!/" />
+      <root url="jar://$PROJECT_DIR$/sources/robovm-studio/updater/testData/lib/annotations.jar!/" />
+      <root url="jar://$PROJECT_DIR$/sources/robovm-studio/updater/testData/lib/bootstrap_deleted.jar!/" />
+      <root url="jar://$PROJECT_DIR$/sources/robovm-studio/updater/testData/lib/boot2_changed_with_unchanged_content.jar!/" />
+      <root url="jar://$PROJECT_DIR$/sources/robovm-studio/updater/testData/lib/boot.jar!/" />
+      <root url="jar://$PROJECT_DIR$/sources/robovm-studio/updater/testData/lib/boot2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/sources/robovm-studio/updater/testData/lib/bootstrap.jar!/" />
+      <root url="jar://$PROJECT_DIR$/sources/robovm-studio/updater/testData/lib/boot_with_directory_becomes_file.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

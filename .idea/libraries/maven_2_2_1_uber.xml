@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="maven-2.2.1-uber">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/sources/robovm-studio/plugins/maven/maven2-server-impl/lib/maven2/lib/maven-2.2.1-uber.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

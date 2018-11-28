@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="asm-attrs-2.2.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/sources/robovm-studio/plugins/maven/src/test/data/local1/asm/asm-attrs/2.2.1/asm-attrs-2.2.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="bundled_ant_src">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/sources/robovm-studio/lib/ant/src/bundled_ant_src.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

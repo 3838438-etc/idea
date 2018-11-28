@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="lib21">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/sources/robovm-studio/java/java-tests/testData/codeInsight/interJarDependencies/lib2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

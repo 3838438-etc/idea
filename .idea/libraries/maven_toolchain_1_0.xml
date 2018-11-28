@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="maven-toolchain-1.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/sources/robovm-studio/java/java-tests/testData/vfs/maven-toolchain-1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

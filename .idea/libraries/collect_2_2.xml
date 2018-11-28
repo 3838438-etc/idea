@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="collect-2.2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/sources/robovm-studio/java/java-tests/testData/psi/generics22/collect-2.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="lib32">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/sources/robovm-studio/java/java-tests/testData/codeInsight/daemonCodeAnalyzer/advHighlighting/sameClassesInSourceAndLib/lib/libsrc.zip!/" />
+      <root url="jar://$PROJECT_DIR$/sources/robovm-studio/java/java-tests/testData/codeInsight/daemonCodeAnalyzer/advHighlighting/sameClassesInSourceAndLib/lib/lib.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

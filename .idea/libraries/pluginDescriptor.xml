@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="pluginDescriptor">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/sources/robovm-studio/java/java-tests/testData/ide/plugins/pluginDescriptor/asp.jar!/" />
+      <root url="jar://$PROJECT_DIR$/sources/robovm-studio/java/java-tests/testData/ide/plugins/pluginDescriptor/resources_en.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

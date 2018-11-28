@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="comms">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/sources/robovm-studio/plugins/eclipse/testData/round/IDEA53188/multi/ws-internals/Jar/comms.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

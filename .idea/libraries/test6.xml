@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="test6">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/sources/robovm-studio/plugins/eclipse/testData/modification/replacedWithVariablesNoSrcExistOnDisc/variableidea/test.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

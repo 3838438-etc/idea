@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="lib22">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/sources/robovm-studio/plugins/testng/lib/jcommander.jar!/" />
+      <root url="jar://$PROJECT_DIR$/sources/robovm-studio/plugins/testng/lib/testng.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

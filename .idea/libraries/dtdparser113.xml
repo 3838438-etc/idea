@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="dtdparser113">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/sources/robovm-studio/plugins/devkit/lib/dtdparser113.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

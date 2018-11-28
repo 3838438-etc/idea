@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="lib8">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/sources/robovm-studio/python/lib/jython-2.5.2-src.zip!/" />
+      <root url="jar://$PROJECT_DIR$/sources/robovm-studio/python/lib/jython.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

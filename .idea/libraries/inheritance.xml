@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="inheritance">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/sources/robovm-studio/java/java-tests/testData/libResolve/inheritance/fullLibrary.jar!/" />
+      <root url="jar://$PROJECT_DIR$/sources/robovm-studio/java/java-tests/testData/libResolve/inheritance/middleBottom.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

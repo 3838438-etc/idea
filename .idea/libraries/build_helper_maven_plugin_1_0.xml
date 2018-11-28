@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="build-helper-maven-plugin-1.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/sources/robovm-studio/plugins/maven/src/test/data/plugins/org/codehaus/mojo/build-helper-maven-plugin/1.0/build-helper-maven-plugin-1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

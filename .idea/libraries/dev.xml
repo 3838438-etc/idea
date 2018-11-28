@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="dev">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/sources/robovm-studio/lib/dev/easymock.jar!/" />
+      <root url="jar://$PROJECT_DIR$/sources/robovm-studio/lib/dev/easymockclassextension.jar!/" />
+      <root url="jar://$PROJECT_DIR$/sources/robovm-studio/lib/dev/jmock-legacy-2.5.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/sources/robovm-studio/lib/dev/jmock-2.5.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/sources/robovm-studio/lib/dev/jmock-junit4-2.5.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/sources/robovm-studio/lib/dev/objenesis-1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

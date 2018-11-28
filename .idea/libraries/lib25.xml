@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="lib25">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/sources/robovm-studio/plugins/maven/lib/wadl-core.jar!/" />
+      <root url="jar://$PROJECT_DIR$/sources/robovm-studio/plugins/maven/lib/plexus-utils-2.0.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/sources/robovm-studio/plugins/maven/lib/plexus-archiver-2.4.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

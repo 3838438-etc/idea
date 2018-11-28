@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="lib13">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/sources/robovm-studio/plugins/coverage/lib/coverage-report-idea.jar!/" />
+      <root url="jar://$PROJECT_DIR$/sources/robovm-studio/plugins/coverage/lib/trove4j.jar!/" />
+      <root url="jar://$PROJECT_DIR$/sources/robovm-studio/plugins/coverage/lib/coverage-report.jar!/" />
+      <root url="jar://$PROJECT_DIR$/sources/robovm-studio/plugins/coverage/lib/jacocoant.jar!/" />
+      <root url="jar://$PROJECT_DIR$/sources/robovm-studio/plugins/coverage/lib/jacocoagent.jar!/" />
+      <root url="jar://$PROJECT_DIR$/sources/robovm-studio/plugins/coverage/lib/jacoco_src.zip!/" />
+      <root url="jar://$PROJECT_DIR$/sources/robovm-studio/plugins/coverage/lib/finder.jar!/" />
+      <root url="jar://$PROJECT_DIR$/sources/robovm-studio/plugins/coverage/lib/asm-all.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

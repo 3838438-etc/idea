@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="newrepo1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/sources/robovm-studio/plugins/svn4idea/testData18/svn/newrepo.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

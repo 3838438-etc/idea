@@ -3,6 +3,11 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/idea.iml" filepath="$PROJECT_DIR$/idea.iml" />
+      <module fileurl="file://$PROJECT_DIR$/text/text.iml" filepath="$PROJECT_DIR$/text/text.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/text_ast.iml" filepath="$PROJECT_DIR$/.idea/modules/text_ast.iml" group="text" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/text_integrationTest.iml" filepath="$PROJECT_DIR$/.idea/modules/text_integrationTest.iml" group="text" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/text_main.iml" filepath="$PROJECT_DIR$/.idea/modules/text_main.iml" group="text" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/text_test.iml" filepath="$PROJECT_DIR$/.idea/modules/text_test.iml" group="text" />
     </modules>
   </component>
 </project>

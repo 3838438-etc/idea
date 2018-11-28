@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="lib18">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/sources/robovm-studio/python/ipnb/lib/java_websocket.jar!/" />
+      <root url="jar://$PROJECT_DIR$/sources/robovm-studio/python/ipnb/lib/commons-io-1.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/sources/robovm-studio/python/ipnb/lib/snuggletex-core-1.3-SNAPSHOT.jar!/" />
+      <root url="jar://$PROJECT_DIR$/sources/robovm-studio/python/ipnb/lib/jeuclid-core-3.1.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/sources/robovm-studio/python/ipnb/lib/batik.jar!/" />
+      <root url="jar://$PROJECT_DIR$/sources/robovm-studio/python/ipnb/lib/xmlgraphics-commons-1.3.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

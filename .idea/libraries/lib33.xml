@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="lib33">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/sources/robovm-studio/plugins/xslt-debugger/engine/impl/lib/saxon9he.jar!/" />
+      <root url="jar://$PROJECT_DIR$/sources/robovm-studio/plugins/xslt-debugger/engine/impl/lib/saxon.jar!/" />
+      <root url="jar://$PROJECT_DIR$/sources/robovm-studio/plugins/xslt-debugger/engine/impl/lib/xalan.jar!/" />
+      <root url="jar://$PROJECT_DIR$/sources/robovm-studio/plugins/xslt-debugger/engine/impl/lib/rmi-stubs.jar!/" />
+      <root url="jar://$PROJECT_DIR$/sources/robovm-studio/plugins/xslt-debugger/engine/impl/lib/serializer.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="lib17">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/sources/robovm-studio/plugins/groovy/testdata/mockGantLib/lib/gant.jar!/" />
+      <root url="jar://$PROJECT_DIR$/sources/robovm-studio/plugins/groovy/testdata/mockGantLib/lib/ant-junit.jar!/" />
+      <root url="jar://$PROJECT_DIR$/sources/robovm-studio/plugins/groovy/testdata/mockGantLib/lib/ant.jar!/" />
+      <root url="jar://$PROJECT_DIR$/sources/robovm-studio/plugins/groovy/testdata/mockGantLib/lib/ant-launcher.jar!/" />
+      <root url="jar://$PROJECT_DIR$/sources/robovm-studio/plugins/groovy/testdata/mockGantLib/lib/commons.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

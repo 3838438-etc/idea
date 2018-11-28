@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="xxx2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/sources/robovm-studio/java/java-tests/testData/compileServer/incremental/jasperValidation/javaDependent/exploded/WEB-INF/lib/xxx.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

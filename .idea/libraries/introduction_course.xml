@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="introduction_course">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/sources/robovm-studio/python/edu/interactive-learning-python/resources/courses/introduction_course.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

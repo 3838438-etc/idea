@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="jar-every7">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/sources/robovm-studio/plugins/eclipse/testData/round/allProps/eclipse-ws-3.4.1-a/all-props/lib-4/jar-every/src.zip!/" />
+      <root url="jar://$PROJECT_DIR$/sources/robovm-studio/plugins/eclipse/testData/round/allProps/eclipse-ws-3.4.1-a/all-props/lib-4/jar-every/lib-4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/sources/robovm-studio/plugins/eclipse/testData/round/allProps/eclipse-ws-3.4.1-a/all-props/lib-4/jar-every/apidoc.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

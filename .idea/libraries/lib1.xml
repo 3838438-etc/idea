@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="lib1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/sources/robovm-studio/plugins/gradle/tooling-extension-api/lib/gradle-platform-base-2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/sources/robovm-studio/plugins/gradle/tooling-extension-api/lib/gradle-language-java-2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/sources/robovm-studio/plugins/gradle/tooling-extension-api/lib/gradle-build-init-2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/sources/robovm-studio/plugins/gradle/tooling-extension-api/lib/gradle-plugins-2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/sources/robovm-studio/plugins/gradle/tooling-extension-api/lib/gradle-language-jvm-2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/sources/robovm-studio/plugins/gradle/tooling-extension-api/lib/gradle-platform-jvm-2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/sources/robovm-studio/plugins/gradle/tooling-extension-api/lib/gradle-scala-2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/sources/robovm-studio/plugins/gradle/tooling-extension-api/lib/gradle-ide-2.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="BadPlugin2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/sources/robovm-studio/platform/platform-tests/testData/badPlugins/plugins/BadPlugin2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

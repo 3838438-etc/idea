@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="lib7">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/sources/robovm-studio/plugins/maven/maven3-server-common/lib/nexus-indexer-artifact-1.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/sources/robovm-studio/plugins/maven/maven3-server-common/lib/archetype-catalog-2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/sources/robovm-studio/plugins/maven/maven3-server-common/lib/maven-dependency-tree-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/sources/robovm-studio/plugins/maven/maven3-server-common/lib/nexus-indexer-3.0.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/sources/robovm-studio/plugins/maven/maven3-server-common/lib/archetype-common-2.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

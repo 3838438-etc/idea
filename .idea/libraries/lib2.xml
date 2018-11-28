@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="lib2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/sources/robovm-studio/build/lib/NsiFiles.jar!/" />
+      <root url="jar://$PROJECT_DIR$/sources/robovm-studio/build/lib/launcher-generator.jar!/" />
+      <root url="jar://$PROJECT_DIR$/sources/robovm-studio/build/lib/jarjar-1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/sources/robovm-studio/build/lib/commons-cli-1.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

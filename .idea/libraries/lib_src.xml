@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="lib-src">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/sources/robovm-studio/plugins/maven/maven2-server-impl/lib-src/nexus-indexer-1.2.3-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/sources/robovm-studio/plugins/maven/maven2-server-impl/lib-src/apache-maven-2.2.1-src.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

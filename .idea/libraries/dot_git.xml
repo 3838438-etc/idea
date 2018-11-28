@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="dot_git">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/sources/robovm-studio/plugins/git4idea/testData/repo/community/dot_git.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

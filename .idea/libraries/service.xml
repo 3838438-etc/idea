@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="service">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/sources/robovm-studio/jps/jps-builders/testData/output/moduleClasspath/main/lib/service.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

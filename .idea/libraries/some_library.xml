@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="some-library">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/sources/robovm-studio/plugins/groovy/testdata/highlighting/librarySources/some-library.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

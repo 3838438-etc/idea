@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="annotations2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/sources/robovm-studio/java/java-tests/testData/compiler/notNullVerification/annotations.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

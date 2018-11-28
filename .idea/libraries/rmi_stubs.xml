@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="rmi-stubs">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/sources/robovm-studio/plugins/xslt-debugger/engine/lib/rmi-stubs.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

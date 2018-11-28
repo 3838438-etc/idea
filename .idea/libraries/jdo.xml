@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="jdo">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/sources/robovm-studio/plugins/google-app-engine/testData/sdk/1.3.7/lib/user/orm/jdo.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

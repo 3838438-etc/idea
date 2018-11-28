@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="jmock-1.0.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/sources/robovm-studio/plugins/maven/src/test/data/local2/jmock/jmock/1.0.0/jmock-1.0.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

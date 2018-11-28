@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="reorderJars">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/sources/robovm-studio/java/java-tests/testData/ide/plugins/reorderJars/annotations.jar!/" />
+      <root url="jar://$PROJECT_DIR$/sources/robovm-studio/java/java-tests/testData/ide/plugins/reorderJars/zkm.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

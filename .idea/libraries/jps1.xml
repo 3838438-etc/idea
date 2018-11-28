@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="jps1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/sources/robovm-studio/build/lib/jps/jps-builders.jar!/" />
+      <root url="jar://$PROJECT_DIR$/sources/robovm-studio/build/lib/jps/antlayout.jar!/" />
+      <root url="jar://$PROJECT_DIR$/sources/robovm-studio/build/lib/jps/ui-designer-jps-plugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/sources/robovm-studio/build/lib/jps/jps-model.jar!/" />
+      <root url="jar://$PROJECT_DIR$/sources/robovm-studio/build/lib/jps/groovy-jps-plugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/sources/robovm-studio/build/lib/jps/util.jar!/" />
+      <root url="jar://$PROJECT_DIR$/sources/robovm-studio/build/lib/jps/groovy_rt.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

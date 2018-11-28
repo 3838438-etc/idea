@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="classesAndSources">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/sources/robovm-studio/java/java-tests/testData/libResolve/classesAndSources/classesAndSources.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

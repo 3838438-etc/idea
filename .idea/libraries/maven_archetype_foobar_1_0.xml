@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="maven-archetype-foobar-1.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/sources/robovm-studio/plugins/maven/src/test/data/archetypes/org/apache/maven/archetypes/maven-archetype-foobar/1.0/maven-archetype-foobar-1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

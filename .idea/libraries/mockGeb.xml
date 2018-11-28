@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="mockGeb">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/sources/robovm-studio/plugins/groovy/testdata/mockGeb/geb-core-0.7.1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/sources/robovm-studio/plugins/groovy/testdata/mockGeb/geb-core-0.7.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/sources/robovm-studio/plugins/groovy/testdata/mockGeb/geb-testng-0.7.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/sources/robovm-studio/plugins/groovy/testdata/mockGeb/geb-junit4-0.7.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/sources/robovm-studio/plugins/groovy/testdata/mockGeb/geb-spock-0.7.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="gragent">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/sources/robovm-studio/plugins/groovy/hotswap/gragent.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

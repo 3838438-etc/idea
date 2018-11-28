@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="lib28">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/sources/robovm-studio/plugins/maven/maven2-server-impl/lib/nexus-indexer-1.2.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/sources/robovm-studio/plugins/maven/maven2-server-impl/lib/plexus-utils-1.5.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/sources/robovm-studio/plugins/maven/maven2-server-impl/lib/activation-1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/sources/robovm-studio/plugins/maven/maven2-server-impl/lib/archetype-common-2.0-alpha-4-SNAPSHOT.jar!/" />
+      <root url="jar://$PROJECT_DIR$/sources/robovm-studio/plugins/maven/maven2-server-impl/lib/commons-beanutils.jar!/" />
+      <root url="jar://$PROJECT_DIR$/sources/robovm-studio/plugins/maven/maven2-server-impl/lib/mercury-artifact-1.0-alpha-6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/sources/robovm-studio/plugins/maven/maven2-server-impl/lib/maven-dependency-tree-1.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

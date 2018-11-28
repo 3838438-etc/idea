@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="testData">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/sources/robovm-studio/plugins/javaFX/testData/jfxrt.jar!/" />
+      <root url="jar://$PROJECT_DIR$/sources/robovm-studio/plugins/javaFX/testData/groovy-1.8.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

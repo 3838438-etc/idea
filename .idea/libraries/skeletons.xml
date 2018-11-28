@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="skeletons">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/sources/robovm-studio/python/skeletons/skeletons-win-355-python-3.2.2.zip!/" />
+      <root url="jar://$PROJECT_DIR$/sources/robovm-studio/python/skeletons/skeletons-mac-355-10.7-python-2.7.1.zip!/" />
+      <root url="jar://$PROJECT_DIR$/sources/robovm-studio/python/skeletons/skeletons-mac-392-10.10-python-2.7.6.zip!/" />
+      <root url="jar://$PROJECT_DIR$/sources/robovm-studio/python/skeletons/skeletons-mac-355-10.6-python-2.6.1.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="test23">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/sources/robovm-studio/java/java-tests/testData/vfs/findFileByUrl/test.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

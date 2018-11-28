@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="help">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/sources/robovm-studio/plugins/IntelliLang/help/help.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

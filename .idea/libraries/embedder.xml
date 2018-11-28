@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="embedder">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/sources/robovm-studio/plugins/javaFX/FxBuilderEmbedder/lib/embedder.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

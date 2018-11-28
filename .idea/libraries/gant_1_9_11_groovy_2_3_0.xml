@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="gant-1.9.11_groovy-2.3.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/sources/robovm-studio/build-robovm/lib/gant/lib/gant-1.9.11_groovy-2.3.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

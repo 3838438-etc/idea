@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="jar-all-6">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/sources/robovm-studio/plugins/eclipse/testData/iml/allProps/eclipse-externals/lib-6/jar-all-6.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

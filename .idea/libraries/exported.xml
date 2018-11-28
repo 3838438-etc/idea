@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="exported">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/sources/robovm-studio/jps/jps-builders/testData/output/moduleClasspath/util/lib/exported.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,19 @@
+<component name="libraryTable">
+  <library name="lib6">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/sources/robovm-studio/plugins/svn4idea/lib/antlr.jar!/" />
+      <root url="jar://$PROJECT_DIR$/sources/robovm-studio/plugins/svn4idea/lib/sequence-library.jar!/" />
+      <root url="jar://$PROJECT_DIR$/sources/robovm-studio/plugins/svn4idea/lib/trileadsrc.zip!/" />
+      <root url="jar://$PROJECT_DIR$/sources/robovm-studio/plugins/svn4idea/lib/sqljet.jar!/" />
+      <root url="jar://$PROJECT_DIR$/sources/robovm-studio/plugins/svn4idea/lib/svnkitsrc.zip!/" />
+      <root url="jar://$PROJECT_DIR$/sources/robovm-studio/plugins/svn4idea/lib/svnkit-javahl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/sources/robovm-studio/plugins/svn4idea/lib/jsch.agentproxy.svnkit-trilead-ssh2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/sources/robovm-studio/plugins/svn4idea/lib/sqljetsrc.zip!/" />
+      <root url="jar://$PROJECT_DIR$/sources/robovm-studio/plugins/svn4idea/lib/trilead.jar!/" />
+      <root url="jar://$PROJECT_DIR$/sources/robovm-studio/plugins/svn4idea/lib/svnkit-javahl16.zip!/" />
+      <root url="jar://$PROJECT_DIR$/sources/robovm-studio/plugins/svn4idea/lib/svnkit.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

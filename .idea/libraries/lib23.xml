@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="lib23">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/sources/robovm-studio/xml/relaxng/lib/trang-core.jar!/" />
+      <root url="jar://$PROJECT_DIR$/sources/robovm-studio/xml/relaxng/lib/isorelax.jar!/" />
+      <root url="jar://$PROJECT_DIR$/sources/robovm-studio/xml/relaxng/lib/rngom-20051226-patched.jar!/" />
+      <root url="jar://$PROJECT_DIR$/sources/robovm-studio/xml/relaxng/lib/rngom-src.zip!/" />
+      <root url="jar://$PROJECT_DIR$/sources/robovm-studio/xml/relaxng/lib/jing.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

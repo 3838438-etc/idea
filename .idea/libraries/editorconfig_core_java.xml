@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="editorconfig-core-java">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/sources/robovm-studio/plugins/editorconfig/lib/editorconfig-core-java.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

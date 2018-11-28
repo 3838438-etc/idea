@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="ant-contrib-1.0b3-src">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/sources/robovm-studio/plugins/eclipse/testData/eml/sourceRootPaths/srcPath/ws-internals/lib/ant-contrib-1.0/ant-contrib-1.0b3-src.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

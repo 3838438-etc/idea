@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="zipped_lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/sources/robovm-studio/python/testData/debug/zipped_lib.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

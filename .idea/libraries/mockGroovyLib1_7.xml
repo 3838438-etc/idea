@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="mockGroovyLib1.7">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/sources/robovm-studio/plugins/groovy/testdata/mockGroovyLib1.7/groovy-all-1.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/sources/robovm-studio/plugins/groovy/testdata/mockGroovyLib1.7/groovy-all-1.7.3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

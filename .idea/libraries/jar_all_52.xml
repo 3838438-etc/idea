@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="jar-all-52">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/sources/robovm-studio/plugins/eclipse/testData/round/allProps/eclipse-ws-3.4.1-a/ws-internals/lib-5/jar-all-5.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

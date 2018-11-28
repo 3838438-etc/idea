@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="x">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/sources/robovm-studio/plugins/maven/jps-plugin/testData/compiler/classpathTest/lib/x.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

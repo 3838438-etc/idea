@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="lib16">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/sources/robovm-studio/jps/jps-builders/testData/output/moduleClasspath/test-util/lib/test.jar!/" />
+      <root url="jar://$PROJECT_DIR$/sources/robovm-studio/jps/jps-builders/testData/output/moduleClasspath/test-util/lib/provided.jar!/" />
+      <root url="jar://$PROJECT_DIR$/sources/robovm-studio/jps/jps-builders/testData/output/moduleClasspath/test-util/lib/runtime.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

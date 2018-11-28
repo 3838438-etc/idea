@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="groovy-all-2.3.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/sources/robovm-studio/plugins/groovy/testdata/mockGroovyLib2.3/groovy-all-2.3.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

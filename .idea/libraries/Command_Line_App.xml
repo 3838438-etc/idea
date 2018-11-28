@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Command_Line_App">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/sources/robovm-studio/java/java-impl/src/resources/projectTemplates/Java/Command_Line_App.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

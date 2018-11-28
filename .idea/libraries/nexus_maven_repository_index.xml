@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="nexus-maven-repository-index">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/sources/robovm-studio/plugins/maven/src/test/data/remote_mirror/.index/nexus-maven-repository-index.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
